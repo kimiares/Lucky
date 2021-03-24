@@ -1,0 +1,16 @@
+C:\Users\Пользователь\source\repos\LuckyNumber\LuckyNumber\bin\Debug\net5.0\LuckyNumber.exe
+C:\Users\Пользователь\source\repos\LuckyNumber\LuckyNumber\bin\Debug\net5.0\LuckyNumber.deps.json
+C:\Users\Пользователь\source\repos\LuckyNumber\LuckyNumber\bin\Debug\net5.0\LuckyNumber.runtimeconfig.json
+C:\Users\Пользователь\source\repos\LuckyNumber\LuckyNumber\bin\Debug\net5.0\LuckyNumber.runtimeconfig.dev.json
+C:\Users\Пользователь\source\repos\LuckyNumber\LuckyNumber\bin\Debug\net5.0\LuckyNumber.dll
+C:\Users\Пользователь\source\repos\LuckyNumber\LuckyNumber\bin\Debug\net5.0\ref\LuckyNumber.dll
+C:\Users\Пользователь\source\repos\LuckyNumber\LuckyNumber\bin\Debug\net5.0\LuckyNumber.pdb
+C:\Users\Пользователь\source\repos\LuckyNumber\LuckyNumber\obj\Debug\net5.0\LuckyNumber.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\LuckyNumber\LuckyNumber\obj\Debug\net5.0\LuckyNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\source\repos\LuckyNumber\LuckyNumber\obj\Debug\net5.0\LuckyNumber.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\LuckyNumber\LuckyNumber\obj\Debug\net5.0\LuckyNumber.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\LuckyNumber\LuckyNumber\obj\Debug\net5.0\LuckyNumber.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\LuckyNumber\LuckyNumber\obj\Debug\net5.0\LuckyNumber.dll
+C:\Users\Пользователь\source\repos\LuckyNumber\LuckyNumber\obj\Debug\net5.0\ref\LuckyNumber.dll
+C:\Users\Пользователь\source\repos\LuckyNumber\LuckyNumber\obj\Debug\net5.0\LuckyNumber.pdb
+C:\Users\Пользователь\source\repos\LuckyNumber\LuckyNumber\obj\Debug\net5.0\LuckyNumber.genruntimeconfig.cache
